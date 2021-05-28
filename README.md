@@ -1,4 +1,4 @@
-## T0 Download the dataset
+## To Download the dataset
 1. Make a folder pretrained 
 2. [Download the "coarse" model](https://ai2-s2-mechanic.s3-us-west-2.amazonaws.com/models/mechanic-coarse.tar.gz)
 3. Paste the mechanic-coarse.tar.gz in the pretrained folder
