@@ -12,7 +12,7 @@
 This will add all the required packages to run the code
 
 ## To run the code
-1.  cd Dygiepp-NLP in the repo
+1.  cd Dygiepp-NLP in the terminal
 2.  RUN `allennlp predict ./pretrained/mechanic-coarse.tar.gz ./data/coarse/test.json --predictor dygie --include-package dygie --use-dataset-reader --output-file predictions/covid-coarse.jsonl --silent`
 3.  The code will excute
 
